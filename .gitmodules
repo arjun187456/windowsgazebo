@@ -1,0 +1,3 @@
+[submodule "projects/map-localization-course"]
+	path = projects/map-localization-course
+	url = https://github.com/AntoBrandi/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization.git
